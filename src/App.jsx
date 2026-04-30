@@ -27,11 +27,10 @@ function App() {
 
     try {
       const response = await fetch(
-        "https://openrouter.ai/api/v1/chat/completions",
+        "/api/chat",
         {
           method: "POST",
           headers: {
-            Authorization: `Bearer ${import.meta.env.VITE_OPENROUTER_API_KEY}`,
             "Content-Type": "application/json",
           },
           body: JSON.stringify({
@@ -90,7 +89,7 @@ function App() {
       />
 
       <div className="flex-1 flex justify-center">
-        <div className="w-[80%] max-w-[1200px] flex flex-col">
+        <div className="w-[80%] max-w-1200px flex flex-col">
 
           <div className="p-4 border-b border-gray-700 text-white text-xl font-semibold">
             🤖 AI Chatbot
