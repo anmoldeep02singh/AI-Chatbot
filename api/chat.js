@@ -1,8 +1,6 @@
 export default async function handler(req, res) {
-  // Allow only POST
-  if (req.method !== "POST") {
-    return res.status(405).json({ error: "Method Not Allowed" });
-  }
+  return res.status(200).json({ message: "API working" });
+}
 
   try {
     const response = await fetch(
@@ -23,4 +21,4 @@ export default async function handler(req, res) {
   } catch (error) {
     return res.status(500).json({ error: "Server error" });
   }
-}
+  
