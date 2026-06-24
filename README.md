@@ -1,16 +1,73 @@
-# React + Vite
+# 🍔 Food Ordering Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive Food Ordering Web Application built using React.js that allows users to browse food items, add/remove items from the cart, view the total amount, and persist cart data using Local Storage.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Browse food menu items
+* Add items to cart
+* Remove items from cart
+* Dynamic cart count update
+* Real-time total price calculation
+* Cart data persistence using Local Storage
+* Component-based architecture
+* Responsive and user-friendly interface
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+src/
+├── components/
+│ ├── Navbar.jsx
+│ ├── FoodCard.jsx
+│
+├── pages/
+│ ├── Home.jsx
+│ ├── Cart.jsx
+│
+├── data/
+│ ├── foodData.js
+│
+├── App.jsx
+└── main.jsx
+
+## 🧠 React Concepts Implemented
+
+* Functional Components
+* useState Hook
+* useEffect Hook
+* Props
+* Event Handling
+* Conditional Rendering
+* Component Reusability
+* Local Storage
+* Array Methods (map, filter, reduce)
+
+## 📸 Screenshots
+
+### Home Page
+
+(Add screenshot here)
+
+### Food Menu
+
+(Add screenshot here)
+
+### Cart Page
+
+(Add screenshot here)
+
+### Cart with Items
+
+(Add screenshot here)
+
+## 🎯 Learning Outcomes
+
+Through this project, I gained hands-on experience with React fundamentals including state management, component-based architecture, props, event handling, conditional rendering, and local storage integration.
+
