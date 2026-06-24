@@ -20,23 +20,6 @@ A responsive Food Ordering Web Application built using React.js that allows user
 * HTML5
 * CSS3
 
-## 📂 Project Structure
-
-src/
-├── components/
-│ ├── Navbar.jsx
-│ ├── FoodCard.jsx
-│
-├── pages/
-│ ├── Home.jsx
-│ ├── Cart.jsx
-│
-├── data/
-│ ├── foodData.js
-│
-├── App.jsx
-└── main.jsx
-
 ## 🧠 React Concepts Implemented
 
 * Functional Components
@@ -53,7 +36,8 @@ src/
 
 ### Home Page
 
-(Add screenshot here)
+(Add screenshot here)<img width="215" height="145" alt="image" src="https://github.com/user-attachments/assets/68e87b3f-373f-4fe2-b543-a49cfbd02dca" />
+
 
 ### Food Menu
 
