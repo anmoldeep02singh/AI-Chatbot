@@ -2,6 +2,8 @@
 
 A responsive Food Ordering Web Application built using React.js that allows users to browse food items, add/remove items from the cart, view the total amount, and persist cart data using Local Storage.
 
+Deploy on vercel: https://food-app-anmoldeep-singhs-projects.vercel.app/
+
 ## 🚀 Features
 
 * Browse food menu items
@@ -34,22 +36,13 @@ A responsive Food Ordering Web Application built using React.js that allows user
 
 ## 📸 Screenshots
 
-### Home Page
-
-(Add screenshot here)<img width="215" height="145" alt="image" src="https://github.com/user-attachments/assets/68e87b3f-373f-4fe2-b543-a49cfbd02dca" />
-
-
 ### Food Menu
 
-(Add screenshot here)
+<img width="958" height="417" alt="image" src="https://github.com/user-attachments/assets/a0d83939-37da-41be-899d-b397ac209779" />
 
 ### Cart Page
 
-(Add screenshot here)
-
-### Cart with Items
-
-(Add screenshot here)
+<img width="958" height="419" alt="image" src="https://github.com/user-attachments/assets/5dcf13c0-e7e5-4cf3-9ab0-5a309bec3926" />
 
 ## 🎯 Learning Outcomes
 
