@@ -2,7 +2,7 @@
 
 A responsive AI Chatbot Web Application built using React.js that enables users to interact with an AI model in real time. The application supports context-aware conversations, maintains chat history during the session, and provides a modern chat interface inspired by popular AI assistants.
 
-Deploy on Vercel: https://ai-chatbot-anmoldeep-singhs-projects.vercel.app/
+Deploy on Vercel: https://ai-chatbot-rouge-pi.vercel.app/
 
 ## 🚀 Features
 
